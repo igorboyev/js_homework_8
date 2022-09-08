@@ -1,7 +1,5 @@
 table {
     border-collapse: collapse;
-    /*margin-bottom: 30px;*/
-
 }
 
 td {
@@ -9,6 +7,7 @@ td {
     text-align: center;
     width: 35px;
    }
+
 td:nth-child(2) {
     width: 60px;
 }
